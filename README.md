@@ -2,10 +2,6 @@
 
 Hello_World
 
-# Table of Contents
-
-[Self Discription] (docs/Self Discription)
-
 # Self Discription
 
 Hello,
